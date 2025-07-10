@@ -24,3 +24,9 @@ Then install dependencies:
 cd my-crud-express-generator-app
 npm install
 ```
+
+run this project :
+
+```bash
+ npm run start
+```

@@ -1,3 +1,6 @@
 ###Get example
 
-GET http://localhost:3010
+GET http://localhost:3000
+
+###Prueba otro
+GET http://localhost:3000/test
